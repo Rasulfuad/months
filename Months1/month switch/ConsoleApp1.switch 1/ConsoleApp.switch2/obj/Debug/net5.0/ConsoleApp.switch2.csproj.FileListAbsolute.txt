@@ -1,0 +1,16 @@
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\bin\Debug\net5.0\ConsoleApp.switch2.exe
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\bin\Debug\net5.0\ConsoleApp.switch2.deps.json
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\bin\Debug\net5.0\ConsoleApp.switch2.runtimeconfig.json
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\bin\Debug\net5.0\ConsoleApp.switch2.runtimeconfig.dev.json
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\bin\Debug\net5.0\ConsoleApp.switch2.dll
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\bin\Debug\net5.0\ConsoleApp.switch2.pdb
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.csproj.AssemblyReference.cache
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.GeneratedMSBuildEditorConfig.editorconfig
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.AssemblyInfoInputs.cache
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.AssemblyInfo.cs
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.csproj.CoreCompileInputs.cache
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.dll
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\refint\ConsoleApp.switch2.dll
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.pdb
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ConsoleApp.switch2.genruntimeconfig.cache
+F:\month switch\ConsoleApp1.switch 1\ConsoleApp.switch2\obj\Debug\net5.0\ref\ConsoleApp.switch2.dll
